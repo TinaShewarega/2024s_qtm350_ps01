@@ -10,7 +10,7 @@ Gina is responsible for extracting important features from the data.
 Tina is responsible for model training and evaluation. 
 As a group, we all contributed to the model selection. 
 
-## Motivation
+## Motivation for the project
 "War predictability" refers to the ability or attempt to forecast or anticipate the occurrence, duration, intensity, or outcomes of armed conflicts between nations, states, or other organized groups. This is a complex and challenging task due to the multitude of factors involved in conflicts, including political, economic, social, and cultural dynamics. Historically, various methods and theories have been proposed to predict or understand the likelihood of war, but achieving accurate predictions remains elusive.
 
 # References
